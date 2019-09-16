@@ -1,0 +1,1 @@
+Here is the code base of the application, if it is an external application this directory is not necesarry
